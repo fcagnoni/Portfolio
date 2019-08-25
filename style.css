@@ -1,5 +1,5 @@
 body {
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Montserrat', sans-serif;
   font-size: 18px;
   line-height: 34px;
   color: #484848;
@@ -41,8 +41,8 @@ h1,
 h2,
 h3 {
   
-  font-weight: 700;
-  color: #015249;
+  font-weight: 300;
+  color: #0b4f20;;
 }
 
 h1 {
@@ -66,7 +66,7 @@ h3 {
   margin: 0 0 30px;
   overflow: auto;
   color: #ffffff;
-  background: #ffffff;
+  background: #0b4f20;;
   border-bottom: 2px solid #cccccc;
 }
 
@@ -74,14 +74,14 @@ h3 {
   float: left;
   padding: 0px 10px;
   height: 90px;
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Montserrat', sans-serif;
   font-size: 30px;
   font-weight: 400;
   line-height: 90px;
   color: #ffffff;
   text-align: center;
   text-decoration: none;
-  background: #015249;
+  background: #0b4f20;;
 }
 
 nav {
@@ -104,9 +104,9 @@ nav a:first-child {
   border-left: 0 none;
 }
 
-#githubLink {
-  display: inline-block;
-}
+/* #githubLink {
+ 
+} */
 
 /* footer */
 
@@ -118,7 +118,7 @@ footer {
   color: #cccccc;
   text-align: center;
   background: #666666;
-  border-top: 8px solid #015249;
+  border-top: 8px solid #0b4f20;
   height: 50px;
 }
 
@@ -215,7 +215,7 @@ input[type=submit] {
   font-size: 18px;
   color: #ffffff;
   cursor: pointer;
-  background: #015249;
+  background: #0b4f20;;
   border: 0 none;
 }
 
